@@ -117,6 +117,8 @@ npm install
 ## Special Thanks
 <p align="center"> 
 	<img src="https://ia802806.us.archive.org/30/items/github.com-Rocketseat-unform_-_2020-02-21_01-23-46/cover.jpg" alt="Rocketseat" width="120" height="120"/>
+</p>
 
-	Special thanks to Diego Fernandes, Rodrigo Gonçalves and the entire Rocketseat team for providing this experience.
+<p align="center">
+	<h2>Special thanks to Diego Fernandes, Rodrigo Gonçalves and the entire Rocketseat team for providing this experience.</h2>
 </p>
