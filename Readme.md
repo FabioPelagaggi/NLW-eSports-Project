@@ -12,9 +12,8 @@
 	<a href="#-about">About</a> •
 	<a href="#-layout">Layout</a> • 
 	<a href="#-start-project">How to start the project</a> • 
-	<a href="#-on-the-way">On The Way</a> •
 	<a href="#-tech">Tech Stack</a> • 
-	<a href="#-tech">Version</a> •
+	<a href="#-version">Version</a> •
 	<a href="#-special-thanks">Special Thanks</a>
 </p>
 	
@@ -69,14 +68,6 @@ OBS.: Don't forget to install the application's dependencies by running the comm
 ```bash
 npm install
 ```
-
-
-<a id="-on-the-way"></a>
-
-## On The Way
-
-- [ ] Add an ;
-- [ ] Aprimoramento de componentes;
 
 <a id="-tech"></a>
 
